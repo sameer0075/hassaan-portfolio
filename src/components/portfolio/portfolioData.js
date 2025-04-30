@@ -172,6 +172,38 @@ const PortfolioData = [
         "Designing new features and improving existing feature designs with real-time user feedback from analytics.",
         "Optimizing the game."
     ]
+},
+{
+    id: 4,
+    type: "NFT based PC Game",
+    image: WildImage1,
+    tag: [tags.application],
+    delayAnimation: "0",
+    modalDetails: [{
+        project: "PolkaCity",
+        associated_with: "Tintash",
+        // client: "Lion Studions",
+        language: "C#",
+        platform: "IOS, Android",
+        tech_tools: "Unity 3D, C#, Physics",
+        preview: "",
+        link: "",
+    },],
+    figure_model: {
+        figure_type: 'images',
+        title: 'something',
+        images: [],
+    },
+    project_description: "NFT Multi Chain Social Platform and Video Game where users can purchase NFT’s and use them in game.",
+    primary_value: [],
+    work_description: [
+        "Implementing a drone within the game that users can fly across the city. Syncing the drones over the network for a smooth multiplayer experience using Photon PUN.",
+        "Improving an existing car controller with a more realistic feel and better handling",
+        "Finding and modifying plugins suitable according to the game requirement",
+        "Identifying the issue in the player animations and improving the animations with collaboration of an artist",
+        "Creating separate scenes for dierent buildings in the city and improving the lighting in the scenes",
+        "Fetch real time data from API and create separate room types based on the data. Also updating the city according to the events"
+    ]
 }
 ];
 
