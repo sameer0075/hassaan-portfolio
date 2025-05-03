@@ -24,12 +24,12 @@ import HarvesterImage2 from "../../assets/img/portfolio/HarvesterRush/Harvester2
 import HarvesterImage3 from "../../assets/img/portfolio/HarvesterRush/Harvester3.png"
 import HarvesterImage4 from "../../assets/img/portfolio/HarvesterRush/Harvester4.png"
 import HarvesterImage5 from "../../assets/img/portfolio/HarvesterRush/Harvester5.png"
-import zdefense from "../../assets/img/portfolio/zdefense.webp"
+import zdefense from "../../assets/img/portfolio/zdefence.jpeg"
 import zdefense2 from "../../assets/img/portfolio/zdefense-2.webp"
 import zdefense3 from "../../assets/img/portfolio/zdefense-3.webp"
 import zdefense4 from "../../assets/img/portfolio/zdefense-4.webp"
 
-import Monster0 from "../../assets/img/portfolio/Monster/Monster0.jpeg"
+import polkacity from "../../assets/img/portfolio/polkacity.jpeg"
 import Monster1 from "../../assets/img/portfolio/Monster/Monster1.png"
 import Monster2 from "../../assets/img/portfolio/Monster/Monster2.png"
 import Monster3 from "../../assets/img/portfolio/Monster/Monster3.jpeg"
@@ -150,7 +150,7 @@ const PortfolioData = [
     modalDetails: [{
         project: "Z Defence",
         associated_with: "Tintash",
-        // client: "Lion Studions",
+        client: "HomaGames",
         language: "C#",
         platform: "IOS, Android",
         tech_tools: "Unity 3D, C#, Physics",
@@ -163,7 +163,7 @@ const PortfolioData = [
         images: [zdefense, zdefense2, zdefense3, zdefense4],
     },
     project_description: "Zombie defense: War Z Survival is your new favorite zombie game!",
-    primary_value: [],
+    primary_value: ['3D core game mechanics','Animations and Visual Effects','Complex UI features','Improving the game design','Monetization Integrations'],
     work_description: [
         "Working as the lead developer, making sure that the project delivery is on time and working with QA to ensure the features are bug-free",
         "Providing dev estimates for each feature",
@@ -176,13 +176,13 @@ const PortfolioData = [
 {
     id: 4,
     type: "NFT based PC Game",
-    image: WildImage1,
+    image: polkacity,
     tag: [tags.application],
     delayAnimation: "0",
     modalDetails: [{
         project: "PolkaCity",
         associated_with: "Tintash",
-        // client: "Lion Studions",
+        client: "Polka city platform pc",
         language: "C#",
         platform: "IOS, Android",
         tech_tools: "Unity 3D, C#, Physics",
@@ -195,7 +195,7 @@ const PortfolioData = [
         images: [],
     },
     project_description: "NFT Multi Chain Social Platform and Video Game where users can purchase NFT’s and use them in game.",
-    primary_value: [],
+    primary_value: ['Improving gam mechanics i.e player moevement, car controller using plugins.','Integrating new features for players engagement.','Improving game environments through fighting and post processing'],
     work_description: [
         "Implementing a drone within the game that users can fly across the city. Syncing the drones over the network for a smooth multiplayer experience using Photon PUN.",
         "Improving an existing car controller with a more realistic feel and better handling",

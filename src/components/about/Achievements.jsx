@@ -3,8 +3,8 @@ import React from "react";
 const achievementsContent = [
   { title: "3", subTitle1: "years of", subTitle2: "Unity Game Development" },
   { title: "10", subTitle1: "shipped", subTitle2: "projects" },
-  { title: "2", subTitle1: "years of", subTitle2: "Unity 2D" },
-  { title: "1", subTitle1: "years of", subTitle2: "Unity 3D" },
+  { title: "1", subTitle1: "years of", subTitle2: "Unity 2D" },
+  { title: "2", subTitle1: "years of", subTitle2: "Unity 3D" },
   // { title: "4", subTitle1: "Happy", subTitle2: "customers" },
   // { title: "53", subTitle1: "awards", subTitle2: "won" },
 ];
